@@ -1,1 +1,1 @@
-print("ni ya ne lox!!!")
+print("ya vse taki lox!!!((((((((")
